@@ -1,0 +1,19 @@
+body {
+  background: #085078;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #085078, #85D8CE);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #085078, #85D8CE);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #fff; }
+  body #quote {
+    padding: 1em;
+    margin-top: 10em;
+    font-style: italic; }
+  body button {
+    background: #fff;
+    border: 0;
+    color: #134E5E;
+    padding: 0.5em 1em; }
+
+/*# sourceMappingURL=main.css.map */
